@@ -1,12 +1,7 @@
-## Hi there 👋
+wah.su is a passionate collective of tech enthusiasts brought together by our shared love for all things tech and, of course, the adorable red panda! 
 
-<!--
+We believe in the power of technology to inspire, innovate, and create positive change. 
 
-**Here are some ideas to get you started:**
+Our organization provides a welcoming space for members to connect, collaborate, and explore the ever-evolving world of technology. 
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Find out more about us on our homepage at https://home.wah.su
